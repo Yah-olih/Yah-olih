@@ -1,8 +1,9 @@
-### Olá! sou a Yara ☺️
-#### Sou estudante de ADS na SPtech 📚
+### Olá! Me chamo Yara Oliveira Santana ☺️
+#### Formada em Analise e Desenvolvimento de Sistema na instituição SPtech📚
+#### Estagio feito na Box Delivery / Rappi durante 1 ano e 4 messes
 <br>
 
-### Tcnologias que uso 💻:
+### Tcnologias que uso e possuo conhecimento💻:
 
 <div style="display: inlin_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
