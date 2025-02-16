@@ -1,8 +1,8 @@
 ### Olá! Me chamo Yara Oliveira Santana☺️
 #### Atualmente estou procurando emprego como desenvolvedor back-end Junior
 #### Formada em Analise e Desenvolvimento de Sistema na instituição SPtech📚
-#### Curso Tercnico Operador de Microcomputador pelo instituição Senai📚
-#### Estagio feito na Box Delivery / Rappi durante 1 ano e 4 messes
+#### Cursando pós graduação de Engenharia de Software na Cruzeiro do Sul📚
+#### Estagio feito na Box Delivery / Rappi Brazil durante 1 ano e 4 messes
 <br>
 
 ### Tcnologias que uso e possuo conhecimento💻:
@@ -19,5 +19,4 @@
 <br/>
 
 ### Redes Social:
-[![instagam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yah_olih/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yara-santana-1452931b5/)
